@@ -1,0 +1,13 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+  }
+  
+  .info-text {
+    text-align: center;
+  }
+  button
+  {
+    float: right;
+    top: 0vw;
+  }
